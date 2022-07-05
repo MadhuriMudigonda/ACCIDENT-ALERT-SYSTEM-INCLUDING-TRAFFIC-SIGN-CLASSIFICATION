@@ -1,0 +1,2 @@
+# ACCIDENT-ALERT-SYSTEM-INCLUDING-TRAFFIC-SIGN-CLASSIFICATION
+This system recognises all traffic signs even at night and in inclement weather, allowing individuals to recognise them from a distance. It also assists the driver when the person feels drowsy by emitting a buzzer sound. If the driver falls asleep repeatedly, an alert message will be sent to their emergency contact, along with their current position. As a result, this technology warns the motorist and assists in avoiding road accidents.
